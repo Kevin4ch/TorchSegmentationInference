@@ -1,7 +1,4 @@
-### Torch inference （segmentation） in c++
-
-
-C++对语义分割推断结果的后处理
+### Torch gpu inference （segmentation） in c++
 
 ```
 int main() {
@@ -14,4 +11,3 @@ int main() {
     return 0;
 }
 ```
-![image Demo](https://github.com/Kevin4ch/TorchSegmentationInference/blob/master/example.png)
